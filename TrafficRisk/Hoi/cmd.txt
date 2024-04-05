@@ -1,0 +1,8 @@
+python test_on_images.py --dataset_file=hoia --backbone=resnet50 --batch_size=1 --log_dir=./ --model_path=E:\Project\Python\Traffic-Simulator\checkpoint0299.pth
+
+python test_on_images.py --dataset_file=hoia --backbone=resnet50 --batch_size=1 --log_dir=./ --model_path=E:\Project\Python\Traffic-Simulator\checkpoint0299.pth --img_sheet=E:\Project\Python\Traffic-Simulator\HoiTransformer\data\hoia\images\test
+
+
+
+
+python test_on_images.py --dataset_file=hoia --backbone=resnet50 --batch_size=1 --log_dir=./ --model_path=E:\Project\Python\Traffic-Simulator\checkpoint0299.pth --img_sheet=E:\1-Project\riding-violation\HOI\HoiTransformer\data\hoia\images\trainval
