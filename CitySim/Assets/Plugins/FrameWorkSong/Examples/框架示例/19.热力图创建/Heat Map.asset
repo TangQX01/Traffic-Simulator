@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e265afb4aa961c448463079494f70dd, type: 3}
+  m_Name: Heat Map
+  m_EditorClassIdentifier: 
+  DisRatio: 0.05
+  Resolution: 256
+  HeatMapInfos:
+  - MaxAmount: 120
+    Color: {r: 1, g: 0.25943398, b: 0.25943398, a: 0.78431374}
+  - MaxAmount: 90
+    Color: {r: 1, g: 0.9007734, b: 0.3160377, a: 0.8666667}
+  - MaxAmount: 60
+    Color: {r: 0.38948652, g: 1, b: 0.28773582, a: 0.85882354}
+  - MaxAmount: 30
+    Color: {r: 0.4009434, g: 0.9326797, b: 1, a: 0.8862745}
+  - MaxAmount: 0
+    Color: {r: 0.8235294, g: 0.8544459, b: 1, a: 0}

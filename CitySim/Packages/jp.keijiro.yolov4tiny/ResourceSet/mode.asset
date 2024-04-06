@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ade26929456214724be2fa2228ddadd1, type: 3}
+  m_Name: mode
+  m_EditorClassIdentifier: 
+  model: {fileID: 5022602860645237092, guid: 3766cb1b91799e9448085c4d1319ab75, type: 3}
+  anchors:
+  - 10
+  - 14
+  - 23
+  - 27
+  - 37
+  - 58
+  - 81
+  - 82
+  - 135
+  - 169
+  - 344
+  - 319
+  preprocess: {fileID: 7200000, guid: f0e54f0944cdd464eb2d24d6894dddc6, type: 3}
+  postprocess1: {fileID: 7200000, guid: 70b474d44e5ca4c95acb30cdc0056c86, type: 3}
+  postprocess2: {fileID: 7200000, guid: b44f801190ef646a3bc6ae344c7eb331, type: 3}
